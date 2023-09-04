@@ -1,4 +1,4 @@
-# Instrucciones para Ejecutar un Proyecto Expo en un Emulador de Dispositivo Móvil
+# Instrucciones para Ejecutar el proyecto con expo
 
 A continuación, se proporcionan instrucciones claras sobre cómo ejecutar un proyecto Expo en un emulador de dispositivo móvil. Asegúrate de tener instaladas todas las dependencias especificadas en el archivo `package.json` antes de comenzar.
 
